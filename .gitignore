@@ -8,6 +8,7 @@
 *.order
 *.*.cmd
 *.tmp
+*.ll
 .config
 .config.old
 .gitignore
